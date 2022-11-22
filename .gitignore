@@ -1,0 +1,6 @@
+*.png
+*.pyc
+*.py~
+*.DS_Store
+*.out
+*.npy
